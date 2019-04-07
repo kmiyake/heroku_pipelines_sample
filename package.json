@@ -1,0 +1,5 @@
+{
+  "name": "heroku_pipelines_sample",
+  "private": true,
+  "dependencies": {}
+}
